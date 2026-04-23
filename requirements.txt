@@ -1,0 +1,13 @@
+openai
+pdfplumber
+requests
+beautifulsoup4
+pytesseract
+Pillow
+networkx
+python-frontmatter
+tiktoken
+streamlit
+flask
+markdown
+pyyaml
